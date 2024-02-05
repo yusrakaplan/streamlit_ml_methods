@@ -6,7 +6,7 @@ This is a simple web application built with Streamlit to explore different class
 
 Make sure you have Python and Streamlit installed on your local machine.
 
-You need these dependencies:
+# You need these dependencies:
 pip install streamlit
 pip install scikit-learn
 pip install matplotlib
